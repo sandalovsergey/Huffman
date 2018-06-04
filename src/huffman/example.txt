@@ -1,0 +1,18 @@
+Enter the string to encode:
+aaaaaaaaaaaaaaaaaaadfghjkvaaaaaaaaaaaaaaacvbnm
+
+Dictionary size: 12
+Dictionary: 
+a: 1
+b: 01010
+c: 01011
+d: 01100
+v: 0100
+f: 01101
+g: 01110
+h: 01111
+j: 0000
+k: 0001
+m: 0010
+n: 0011
+Encoded string: 1111111111111111111011000110101110011110000000101001111111111111110101101000101000110010
